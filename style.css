@@ -49,6 +49,7 @@ div{
     right: 0;
     text-align: right;
     padding: 30px;
+    z-index: 99;
 }
 
 .nav a{
