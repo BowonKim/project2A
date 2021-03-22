@@ -152,4 +152,5 @@ div{
     bottom: 0;
     right: 0;
     font-size: 5vh;
+    z-index:99;
 }
